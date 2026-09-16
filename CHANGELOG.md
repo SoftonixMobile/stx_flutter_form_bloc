@@ -1,3 +1,7 @@
+## 3.1.0
+
+- updated dependencies (stx_form_bloc 4.1.0, flutter_bloc 9.1.1, flutter_lints 6.0.0).
+
 ## 3.0.0
 
 - updated dependencies.
