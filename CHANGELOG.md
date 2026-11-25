@@ -1,3 +1,8 @@
+## 4.0.0
+
+- **BREAKING**: minimum Flutter is now 3.47.0 and minimum Dart SDK is 3.13.0.
+- migrated from `package:flutter/material.dart` to the `material_ui` package.
+
 ## 3.1.1
 
 - fixed keyboard not being dismissed when `LoadingDialog` is shown.
